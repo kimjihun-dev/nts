@@ -1,5 +1,5 @@
-# nts website renewal (부산지방국세청 사이트 리뉴얼, 개인프로젝트)
-<br><br>
+## nts website renewal (부산지방국세청 사이트 리뉴얼, 개인프로젝트)
+<br>
 
 #### 기간 : 3day
 #### 사용언어 : HTML5, CSS3, jQuery, js
